@@ -7,4 +7,4 @@ What Tasks are too be done?
 	Reserch the war so that I know what detail is needed to be accomplised to win the war
 		NOP WAR - KILL NOP
 		WWI - SAVE THE PRINCE
-		WWII - KILL HITLER
+		WWII - KILL -- Enemy
